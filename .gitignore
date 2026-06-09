@@ -1,0 +1,27 @@
+# ---------- Python Backend ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Database
+*.sqlite3
+*.db
+
+# ---------- Node.js Frontend ----------
+node_modules/
+dist/
+build/
+.npm
+npm-debug.log*
+
+# ---------- OS Files ----------
+.DS_Store
+Thumbs.db
